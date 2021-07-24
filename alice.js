@@ -1,2 +1,0 @@
-// with puntuation removed
-const alice = `human body head skull brain hair forehead eye-brow face eye eyelid eyelash eye-ball tear pupil cheek ear ear-hole nose nostril moustache lip beard mouth tooth tongue uvula gum`;
